@@ -1,0 +1,102 @@
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
+sa_mask legt eine Signalmaske fest, die angibt, welche Signale während der Ausführung der Signal-
+handhabungsfunktion blockiert (d.h. zu der Signalmaske des Threads, in der der Signal-Handler ---
+aufgerufen wird, hinzugefügt) werden sollen. Zusätzlich wird das Signal, das den Handler ausge- -
+löst hat, blockiert, falls nicht der Schalter SA_NODEFER verwandt wurde. sa_flags legt eine -----
+Gruppe von Schaltern fest, die das Verhalten des Signals verändern. Es wird durch bitweise ******
+ODER-Verknüpfung von Null oder mehreren der folgenden Werte erstellt: 8888888888&:üä# kl/2 "Hallo
