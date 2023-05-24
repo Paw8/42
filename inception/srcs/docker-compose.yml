@@ -1,0 +1,74 @@
+version: '3.9'
+
+services:
+
+    nginx:
+        image: my_nginx
+        build: ./requirements/nginx/
+        ports:
+            - 443:6565
+        volumes:
+            - vol_wp:/var/www/html/wordpress
+        networks:
+            - pcordeirs-network
+        restart: unless-stopped
+        environment:
+            - DOMAIN_NAME
+            - CERTS_
+            - CERTS_KEY
+        command: /bin/sh -c "envsubst '$$DOMAIN_NAME $$CERTS_ $$CERTS_KEY' < /etc/nginx/nginx.temp > /etc/nginx/nginx.conf && nginx"
+
+    mariadb:
+        image: my_mariadb
+        build: ./requirements/mariadb/
+        volumes:
+            - vol_maria:/var/lib/mysql/
+        networks:
+            - pcordeirs-network
+        restart: unless-stopped
+        environment:
+            - MYSQL_ROOT_PASSWORD
+            - MYSQL_NETWORK
+            - MYSQL_USER
+            - MYSQL_PASSWORD
+            - MYSQL_DATABASE
+
+    wordpress:
+        image: my_wordpress
+        build: ./requirements/wordpress/
+        volumes:
+            - vol_wp:/var/www/html/wordpress
+        networks:
+            - pcordeirs-network
+        depends_on:
+            - mariadb
+        restart: unless-stopped
+        environment:
+            - DOMAIN_NAME
+            - WORDPRESS_WEBSITE_TITLE
+            - WORDPRESS_USER
+            - WORDPRESS_PASSWORD
+            - WORDPRESS_EMAIL
+            - WORDPRESS_DATABASE
+            - WORDPRESS_DB_USER
+            - WORDPRESS_DB_PASSWORD
+            - WORDPRESS_DB_HOST
+  
+volumes:
+
+    vol_wp:
+        driver: local
+        driver_opts:
+            type: 'none'
+            o: 'bind'
+            device: '/home/pcordeir/data/wordpress'
+
+    vol_maria:
+        driver: local
+        driver_opts:
+            type: 'none'
+            o: 'bind'
+            device: '/home/pcordeir/data/mariadb'
+
+networks:
+    pcordeirs-network:
