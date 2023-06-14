@@ -61,14 +61,14 @@ volumes:
         driver_opts:
             type: 'none'
             o: 'bind'
-            device: '/home/pcordeir/data/wordpress'
+            device: '/home/pedro/data/wordpress'
 
     vol_maria:
         driver: local
         driver_opts:
             type: 'none'
             o: 'bind'
-            device: '/home/pcordeir/data/mariadb'
+            device: '/home/pedro/data/mariadb'
 
 networks:
     pcordeirs-network:
