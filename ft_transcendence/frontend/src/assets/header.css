@@ -1,0 +1,42 @@
+nav {
+  width: 100vw;
+  background-color: BlanchedAlmond;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+nav .menu-item {
+  font-family: space;
+  font-size: 25px;
+  padding: 25px 5px;
+  position: relative;
+  text-align: center;
+  border-bottom: 5px solid transparent;
+  display: flex;
+  transition: 0.4s;
+  width: 20vw;
+}
+
+nav .menu-item.active,
+nav .menu-item:hover {
+  background-color: #0d0d0e;
+  border-bottom-color: #bb3030;
+}
+
+nav .menu-item a {
+  color: #83689D;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+.title {
+	font-family: pixel;
+	font-size: 80px;
+	background-image: linear-gradient(180deg, #83689D 0%, #B1DDE8 100%);
+	background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+	color: transparent;
+}

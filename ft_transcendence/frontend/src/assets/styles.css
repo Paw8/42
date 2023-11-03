@@ -1,0 +1,19 @@
+@font-face {
+	font-family: alternity;
+	src: url(Alternity.ttf);
+}
+
+@font-face {
+	font-family: space;
+	src: url(AstroSpace.ttf);
+}
+
+@font-face {
+	font-family: debug;
+	src: url(Debug.otf);
+}
+
+@font-face {
+	font-family: pixel;
+	src: url(Pixel.ttf);
+}
